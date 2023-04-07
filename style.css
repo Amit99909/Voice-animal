@@ -1,0 +1,26 @@
+#heading{
+    background-color: whitesmoke;
+}
+#rt{
+    color: red;
+}
+#gt{
+    color:grey;
+}
+img{
+    height:300px;
+    width:300px;
+}
+#main_div{
+    background-color:  dimgray;
+    padding: 50px;
+    
+}
+#nd{
+    color:grey;
+    background-color: aquamarine;
+    padding: 25px;
+    position: fixed;
+    bottom: 15;
+    width: 100%;
+}
